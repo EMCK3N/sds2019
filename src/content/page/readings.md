@@ -225,18 +225,15 @@ We introduce cross validation to gauge overfitting and review the linear model.
 
 ## Session 14: Supervised learning 3
 
-We introduce principal component analysis for dimensionality reduction.
+We give an overview of non-linear machine learning models and outline how machine learning tools can be applied in social science.
 
 #### Required readings
-- PML: chapter 5 subsection, Unsupervised dimensionality reduction via principal component analysis
 
 - Mullainathan, Sendhil, and Jann Spiess. 2017. ["Machine Learning: An Applied Econometric Approach."](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.87) *Journal of Economic Perspectives*, 31 (2): 87-106.
 
 - Varian, Hal. 2012 [Big Data: New Tricks for Econometrics](http://people.ischool.berkeley.edu/~hal/Papers/2013/ml.pdf)
 
 - Athey, Susan. 2018. [The Impact of Machine Learning on Economics](http://www.nber.org/chapters/c14009.pdf) *NBER*
-
-- BBB: sections 4.1, 4.2
 
 
 ## Session 15: Text data
